@@ -4,7 +4,7 @@ A fully responsive and modern dashboard template built following the [Elzero Web
 
 ## 🔗 Live Demo
 
-👉 [View Demo](https://brahimdjelid.github.io/dashboard/)
+👉 [View Demo](https://brahimdjelid.github.io/dashboard-template/)
 
 ## 🚀 Features
 
